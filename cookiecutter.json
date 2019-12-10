@@ -1,4 +1,5 @@
 {
   "repo_name": "proj-name",
-  "package_name": "proj_name"
+  "package_name": "proj_name",
+  "python_version": "3.7"
 }

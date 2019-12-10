@@ -91,7 +91,6 @@ __pycache__/
 *.exe
 *egg*
 *Output*
-src/python/mosaic_rtc/volume_prediction/resources/transaction_data_outright.pkl
 *.hdf5
 
 .coverage
